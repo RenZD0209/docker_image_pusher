@@ -1,1 +1,6 @@
-quay.io/minio/minio:RELEASE.2024-06-22T05-26-45Z
+jellyfin/jellyfin:latest
+linuxserver/jackett:latest
+linuxserver/qbittorrent:latest
+allanpk716/chinesesubfinder:latest-lite
+diluka/nas-tools:2.9.1
+xhofe/alist:latest
